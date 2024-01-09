@@ -1,4 +1,4 @@
- # Power BI Dashboard Project: Global Store Analysis
+ # Power BI Dashboard Project:  PFF Holdings January 2024
 
 This repository houses the Power BI Dashboard project crafted using the comprehensive PFF Holdings January 2024 dataset. The dashboard has been meticulously designed to offer deep analysis and vivid visualizations.
 
