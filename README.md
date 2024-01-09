@@ -2,7 +2,7 @@
 
 This repository houses the Power BI Dashboard project crafted using the comprehensive Global Superstore dataset. The dashboard has been meticulously designed to offer deep analysis and vivid visualizations, providing valuable insights into various facets of the business.
 
-![Alt text](https://i.ibb.co/rK920KS/Final-version.jpg](https://raw.githubusercontent.com/cepcema/PFF_overview_2024/main/Pff_overview.jpeg))
+![Alt text](https://raw.githubusercontent.com/cepcema/PFF_overview_2024/main/Pff_overview.jpeg)
 
 ## Project Overview
 The primary objective of this initiative is to harness the advanced functionalities and capabilities of Power BI to conduct a thorough analysis and dynamic visualization of the Global Store dataset. The dataset encompasses extensive sales data from a multinational retail corporation, offering insights into customer behavior, product dynamics, order patterns, and regional performance.
