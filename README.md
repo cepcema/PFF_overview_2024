@@ -1,14 +1,14 @@
  # Power BI Dashboard Project: Global Store Analysis
 
-This repository houses the Power BI Dashboard project crafted using the comprehensive Global Superstore dataset. The dashboard has been meticulously designed to offer deep analysis and vivid visualizations, providing valuable insights into various facets of the business.
+This repository houses the Power BI Dashboard project crafted using the comprehensive PFF Holdings January 2024 dataset. The dashboard has been meticulously designed to offer deep analysis and vivid visualizations.
 
 ![Alt text](https://raw.githubusercontent.com/cepcema/PFF_overview_2024/main/Pff_overview.jpeg)
 
 ## Project Overview
-The primary objective of this initiative is to harness the advanced functionalities and capabilities of Power BI to conduct a thorough analysis and dynamic visualization of the Global Store dataset. The dataset encompasses extensive sales data from a multinational retail corporation, offering insights into customer behavior, product dynamics, order patterns, and regional performance.
+The central focus of this project is to undertake a comprehensive examination and dynamic representation of the holdings within the PFF (Preferred Stock ETF) fund utilizing cutting-edge analytical tools. By leveraging the power of financial analytics, we aim to gain valuable insights into the composition, performance, and trends associated with the holdings within the PFF fund.
 ## Key Features
 
-* **Data Integration**: Ensured a seamless integration of the Global Superstore dataset with Power BI, laying the foundation for efficient data analysis.
+* **Data Integration**: Ensured a seamless integration of the PFF Holdings January 2024 dataset with Power BI, laying the foundation for efficient data analysis.
 
 * **Exploratory Data Analysis (EDA)**: Conducted a thorough examination of the dataset, establishing meaningful relationships among different tables to uncover hidden patterns and correlations.
 
@@ -18,13 +18,11 @@ The primary objective of this initiative is to harness the advanced functionalit
 
 * **Interactive BI Dashboard**: Developed an interactive and user-friendly dashboard that transforms raw data into visually compelling insights, providing users with the ability to explore and discover key findings.
 
-* **Key Performance Metrics**: Implemented visualizations for critical metrics such as sales, quantity, average delivery days, and identified top-profit and loss customers for quick and informed decision-making.
+* **Key Performance Metrics**: Implemented visualizations for critical metrics such as Ratings, quantity, average values, and identified top-performance products for quick and informed decision-making.
 
-* **Market and Segment Analysis**: Visualized the sum of sales by market and segment to offer insights into performance variations across different market segments.
+* **Market and Segment Analysis**: Visualized the Stocks by rating and type to offer insights into performance variations across different sectors.
 
-* **Regional Insights**: Utilized map visualizations to analyze the sum of sales by region, providing a geographical perspective on sales distribution and performance.
-
-* **Time Slicer**: Incorporated dynamic time features, allowing users to analyze trends over different periods and facilitating a comprehensive understanding of temporal patterns in the data.
+* **Slicer**: Incorporated stock-type features, allowing users to analyze trends over different periods and facilitating a comprehensive understanding of temporal patterns in the data.
 
   ## Summary
-This Power BI Dashboard project serves as a robust tool for unraveling the story within the Global Superstore dataset. By seamlessly integrating, cleansing, and modeling data, we've created an interactive dashboard that not only visualizes key metrics but empowers users to derive actionable insights. From market segmentation to regional performance, the dashboard provides a user-friendly interface for a comprehensive exploration of business dynamics. As we navigate through the touchpoints, it becomes evident that this repository is more than a collection of visualizations—it's a gateway to informed decision-making and a deeper understanding of the intricacies driving business success.
+This Power BI Dashboard initiative stands as a powerful instrument for unraveling the narrative embedded within the PFF (Preferred Stock ETF) fund holdings. Through seamless integration, meticulous data cleansing, and sophisticated modeling, I have crafted an interactive dashboard that not only presents crucial metrics but also empowers users to extract actionable insights. From the breakdown of sector allocations to the individual performance of preferred stocks, the dashboard offers an intuitive interface for a comprehensive exploration of the PFF fund's dynamics. As we navigate through the various facets, it becomes apparent that this dashboard transcends mere visualizations—it serves as a gateway to informed decision-making and a profound understanding of the factors steering the performance of the preferred stock portfolio.
